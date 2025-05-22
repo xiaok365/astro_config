@@ -30,7 +30,7 @@ return {
           ["N"] = { "Nzzzv" },
           ["d"] = { [["_d]] },
           ["<leader>sx"] = { [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]] },
-          ["<Enter>"] = { [[o<ESC>]] },
+          -- ["<Enter>"] = { [[o<ESC>]] },
           ["<S-Enter>"] = { [[O<ESC>]] },
           ["<leader>Y"] = { [[:%y+<CR><CR>]] },
           ["<leader>D"] = { [[gg"_dG]] },
